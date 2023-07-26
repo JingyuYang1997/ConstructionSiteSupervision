@@ -1,0 +1,16 @@
+*.pyc
+*xml
+/.idea/
+**/.idea/
+/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+/datasets/raw/
+/datasets/post/
+**/checkpoints/
+/checkpoints/
+**/logs/
+/logs/
+**/results/
+/results/
+/MOCS/
+/pretrained_models/

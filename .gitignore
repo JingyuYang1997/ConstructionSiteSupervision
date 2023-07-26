@@ -10,7 +10,5 @@
 /checkpoints/
 **/logs/
 /logs/
-**/results/
-/results/
 /MOCS/
 /pretrained_models/

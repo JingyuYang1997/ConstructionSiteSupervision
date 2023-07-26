@@ -36,25 +36,25 @@ Cuda  11.4
 
 
 
-<img src="mrcnn\samples\mocs\results\0018730.jpg" alt="0018730" style="zoom: 70%;" />
+<img src="mrcnn/samples/mocs/results/0018730.jpg" alt="0018730" style="zoom: 70%;" />
 
-<img src="mrcnn\samples\mocs\results\0000442.jpg" alt="0000442" style="zoom: 70%;" />
+<img src="mrcnn/samples/mocs/results/0000442.jpg" alt="0000442" style="zoom: 70%;" />
 
-<img src="mrcnn\samples\mocs\results\0000243.jpg" alt="0000243" style="zoom: 70%;" />
+<img src="mrcnn/samples/mocs/results/0000243.jpg" alt="0000243" style="zoom: 70%;" />
 
-<img src="mrcnn\samples\mocs\results\0000291.jpg" alt="0000291" style="zoom: 70%;" />
+<img src="mrcnn/samples/mocs/results/0000291.jpg" alt="0000291" style="zoom: 70%;" />
 
-<img src="mrcnn\samples\mocs\results\0000424.jpg" alt="0000424" style="zoom: 70%;" />
+<img src="mrcnn/samples/mocs/results/0000424.jpg" alt="0000424" style="zoom: 70%;" />
 
-<img src="mrcnn\samples\mocs\results\0000537.jpg" alt="0000537" style="zoom: 70%;" />
+<img src="mrcnn/samples/mocs/results/0000537.jpg" alt="0000537" style="zoom: 70%;" />
 
-<img src="mrcnn\samples\mocs\results\0008485.jpg" alt="0008485" style="zoom: 70%;" />
+<img src="mrcnn/samples/mocs/results/0008485.jpg" alt="0008485" style="zoom: 70%;" />
 
-<img src="mrcnn\samples\mocs\results\0000674.jpg" alt="0000674" style="zoom: 70%;" />
+<img src="mrcnn/samples/mocs/results/0000674.jpg" alt="0000674" style="zoom: 70%;" />
 
-<img src="mrcnn\samples\mocs\results\0000394.jpg" alt="0000394" style="zoom: 70%;" />
+<img src="mrcnn/samples/mocs/results/0000394.jpg" alt="0000394" style="zoom: 70%;" />
 
-<img src="mrcnn\samples\mocs\results\0000284.jpg" alt="0000284" style="zoom: 70%;" />
+<img src="mrcnn/samples/mocs/results/0000284.jpg" alt="0000284" style="zoom: 70%;" />
 
 
 
